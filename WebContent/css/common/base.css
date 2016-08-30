@@ -1,0 +1,24 @@
+body{
+	background: #EEEEEE;
+	padding: 0;
+	margin: 0;
+}
+header{
+	height: 100px;
+	background: #9BCDF7;
+	border-bottom: 5px solid #2699BD;
+	text-align: center;
+}
+footer{
+	height: 100px;
+	background: #DBDBDB;
+	border-top: 5px solid #2699BD;
+	text-align: center;
+}
+.main_div{
+	margin: 10px 50px;
+}
+iframe{
+	width: 100%;
+	height: 100%;
+}
