@@ -18,7 +18,7 @@
 		border: 1px solid #FFF;
 	}
 	.main div:HOVER {
-		background: #BFE;
+		background: #9BCDF7;
 	}
 </style>
 <script type="text/javascript">
