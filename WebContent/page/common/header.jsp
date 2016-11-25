@@ -13,5 +13,10 @@
 	<div style="float: left;">
 		<h3 style="margin: 0px; padding-top: 60px;">Design By Jeffrey</h3>
 	</div>
+	<div style="float: right; text-align: right;">
+		<div>Login | Resg</div>
+		<div>Hello, Jeffrey | Logout</div>
+		<div>Message</div>
+	</div>
 </body>
 </html>
