@@ -28,6 +28,7 @@
 		<span>联系少爷</span>
 		<span>免责声明</span>
 		<span>奇异实验</span>
+		<span>网站管理</span>
 	</div>
 	<div>Copyright: &copy;2016-2020 Jeffrey Hu, China. All rights reserved.</div>
 </body>

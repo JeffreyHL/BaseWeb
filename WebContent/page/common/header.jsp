@@ -13,10 +13,9 @@
 	<div style="float: left;">
 		<h3 style="margin: 0px; padding-top: 60px;">Design By Jeffrey</h3>
 	</div>
-	<div style="float: right; text-align: right;">
-		<div>Login | Resg</div>
-		<div>Hello, Jeffrey | Logout</div>
-		<div>Message</div>
+	<div style="float: right; text-align: right; margin-right: 10px;">
+		<div><a style="width: 50px;">Login</a> | <a style="width: 50px;">Register</a> | <a>Logout</a></div>
+		<div><a>Hello, Jeffrey! Welcome to BaseWeb!</a> | <a>Message</a></div>
 	</div>
 </body>
 </html>

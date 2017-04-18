@@ -34,7 +34,7 @@ public class BaseFilter implements Filter {
 		HttpServletResponse response = (HttpServletResponse) rep;
 		
 		String path = request.getServletPath();
-//		System.out.println(path);
+		System.out.println(path);
 		chain.doFilter(request, response);
 	}
 

@@ -108,5 +108,6 @@
 			<fmt:formatDate value="${now}" pattern="G yyyy-MM/MMMM-dd a HH:mm:ss.SSS E Z z zzzz || D W w"/>
 		</div>
 	</div>
+	<div>aaaaaaa</div>
 </body>
 </html>
